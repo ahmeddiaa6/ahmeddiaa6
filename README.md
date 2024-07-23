@@ -14,11 +14,11 @@
     src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
     width=350px />
 
-- 🌱 I’m currently Studying **Flutter and Ios , python**
+- 🌱 I’m currently Studying **Flutter,IOS, and Python**
 
 - 📫 How to reach me **bebro3647@gmail.com**
 
-- ⚡ Fun fact **teamwork ✌️**
+- ⚡ Fun fact **I think am a great over-thinker**
 <br>
 
 ## 📩 Connect with me
