@@ -11,7 +11,7 @@
 </p>
 <br>
 <img align="right"
-    src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
+     alt="Coding" width="300" height="auto" src="assets/coding.gif"
     width=350px />
 
 - 🌱 I’m currently Studying **Flutter,IOS, and Python**
